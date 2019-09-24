@@ -1,10 +1,8 @@
 contact_links:
-  - name: IRC
+  - name: Stackoverflow
     url: http://example.com
-    about: Chat
+    about: FAQ
   - name: Slack
     url: http://example.com/slack
     about: Chat elsewhere
-  - name: Nope
-    url: bogus
-    about: Not gonna show up
+
