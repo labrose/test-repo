@@ -1,2 +1,7 @@
-
+contact_links:
+  - name: Slack
+  - name: Slack
+    about: hello
+    url: http://www.slackie.com
+    
 blank_issues_enabled: true
