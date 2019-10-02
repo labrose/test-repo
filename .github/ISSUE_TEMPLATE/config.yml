@@ -1,5 +1,7 @@
 contact_links:
   - name: Slack
+    about: yo
+    url: https://ww.slackie.com
   - name: Slack
     about: hello
     url: http://www.slackie.com
