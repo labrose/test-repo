@@ -6,4 +6,4 @@ contact_links:
     about: hello
     url: http://www.slackie.com
     
-blank_issues_enabled: true
+blank_issues_enabled: false
