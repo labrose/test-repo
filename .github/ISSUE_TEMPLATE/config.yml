@@ -3,3 +3,12 @@ contact_links:
   - name: hello
     about: hi
     url: http://hello.com
+  - name: hi hi
+    about: hi
+    url: http://hello.com
+  - name: heya
+    about: hi
+    url: http://hello.com
+  - name: hey
+    about: hi
+    url: http://hello.com
