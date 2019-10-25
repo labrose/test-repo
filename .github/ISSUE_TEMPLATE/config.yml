@@ -1,14 +1,1 @@
-blank_issues_enabled: false
-contact_links: what in the world
-  - name: hello
-    about: hi hi hi hi hi hi hi hi hi hi hi hi 
-    url: http://hello.com<script>
-  - name: hi hi
-    about: hi hi hi hi hi hi hi hi hi hi hi hi
-    url: http://hello.com
-  - name: heya
-    about: hi hi hi hi hi hi hi hi hi hi hi hi
-    url: http://hello.com
-  - name: hey
-    about: hi hi hi hi hi hi hi hi hi hi hi hi
-    url: http://hello.com
+contact_links: this file is broken
